@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="background-color: red; padding-top: 20px">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://gulpjs.com/img/gulp.svg" height="100px">
     </a>
